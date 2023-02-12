@@ -4850,10 +4850,10 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		-moz-flex-direction: col;
-		-webkit-flex-direction: col;
-		-ms-flex-direction: col;
-		flex-direction: col;
+		-moz-flex-direction: row;
+		-webkit-flex-direction: row;
+		-ms-flex-direction: row;
+		flex-direction: row;
 		-moz-justify-content: -moz-flex-end;
 		-webkit-justify-content: -webkit-flex-end;
 		-ms-justify-content: -ms-flex-end;
@@ -4894,7 +4894,6 @@ input, select, textarea {
 			width: 35%;
 			min-width: 25rem;
 			border-radius: 0;
-			height: 100%;
 		}
 
 			.spotlight.style1 .image img {
@@ -5804,16 +5803,16 @@ input, select, textarea {
 		}
 
 	.spotlight .image {
-		background-color: #F8EEDA;
+		background-color: rgba(0, 0, 0, 0.125);
 	}
 
 	.spotlight.invert .image {
-		background-color: #F8EEDA;
+		background-color: rgba(255, 255, 255, 0.125);
 	}
 
 	.spotlight.style3 .image {
-		border-color: #F8EEDA;
-		background-color: #F8EEDA;
+		border-color: rgba(0, 0, 0, 0.2);
+		background-color: rgba(0, 0, 0, 0.2);
 		border-width: 0;
 	}
 
