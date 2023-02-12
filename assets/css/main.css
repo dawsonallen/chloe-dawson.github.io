@@ -4880,7 +4880,6 @@ input, select, textarea {
 			width: 65%;
 			max-width: 64rem;
 			margin: 0 auto;
-			height: 100%;
 		}
 
 		.spotlight.style1 .image {
@@ -4895,6 +4894,7 @@ input, select, textarea {
 			width: 35%;
 			min-width: 25rem;
 			border-radius: 0;
+			height: 100%;
 		}
 
 			.spotlight.style1 .image img {
