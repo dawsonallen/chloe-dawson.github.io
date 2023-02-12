@@ -5804,16 +5804,16 @@ input, select, textarea {
 		}
 
 	.spotlight .image {
-		background-color: rgba(0, 0, 0, 0.125);
+		background-color: #F8EEDA;
 	}
 
 	.spotlight.invert .image {
-		background-color: rgba(255, 255, 255, 0.125);
+		background-color: #F8EEDA;
 	}
 
 	.spotlight.style3 .image {
-		border-color: rgba(0, 0, 0, 0.2);
-		background-color: rgba(0, 0, 0, 0.2);
+		border-color: #F8EEDA;
+		background-color: #F8EEDA;
 		border-width: 0;
 	}
 
