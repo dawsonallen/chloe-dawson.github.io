@@ -157,7 +157,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: "Segoe Print", "Source Sans Pro", Helvetica;
+		font-family: Consolas, "Source Sans Pro", Helvetica;
 		font-size: 1rem;
 		font-weight: 300;
 		line-height: 1.65;
@@ -192,7 +192,7 @@ input, select, textarea {
 		}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-family: Consolas, "Source Sans Pro", Helvetica;
+		font-family: "Segoe Print", "Source Sans Pro", Helvetica;
 		font-weight: 300;
 		line-height: 1.375;
 		letter-spacing: -0.05em;
@@ -205,7 +205,6 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-family: "Segoe Print", "Source Sans Pro", Helvetica;
 		font-size: 5rem;
 		line-height: 1.2;
 	}
