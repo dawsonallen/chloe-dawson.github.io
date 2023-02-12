@@ -4841,7 +4841,7 @@ input, select, textarea {
 
 /* Spotlight (style1) */
 
-	.spotlight.style1 {
+	/*.spotlight.style1 {
 		-moz-align-items: -moz-stretch;
 		-webkit-align-items: -webkit-stretch;
 		-ms-align-items: -ms-stretch;
@@ -4973,7 +4973,7 @@ input, select, textarea {
 
 				.spotlight.style1 .image img {
 					position: relative;
-				}
+				}*/
 
 	}
 
