@@ -4840,7 +4840,7 @@ input, select, textarea {
 	}
 
 /* Spotlight (style1) */
-/*
+
 	.spotlight.style1 {
 		-moz-align-items: -moz-stretch;
 		-webkit-align-items: -webkit-stretch;
@@ -4850,10 +4850,10 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		-moz-flex-direction: row;
-		-webkit-flex-direction: row;
-		-ms-flex-direction: row;
-		flex-direction: row;
+		-moz-flex-direction: col;
+		-webkit-flex-direction: col;
+		-ms-flex-direction: col;
+		flex-direction: col;
 		-moz-justify-content: -moz-flex-end;
 		-webkit-justify-content: -webkit-flex-end;
 		-ms-justify-content: -ms-flex-end;
@@ -5016,7 +5016,7 @@ input, select, textarea {
 			-ms-object-position: right;
 			object-position: right;
 		}
-*/
+
 /* Spotlight (style2) */
 
 	.spotlight.style2 {
