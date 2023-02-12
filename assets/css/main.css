@@ -4861,6 +4861,8 @@ input, select, textarea {
 		position: relative;
 		overflow-x: hidden;
 		text-align: left;
+		background-color: #F8EEDA;
+		color: #F8EEDA;
 	}
 
 		.spotlight.style1 .content {
@@ -4880,7 +4882,7 @@ input, select, textarea {
 			width: 65%;
 			max-width: 64rem;
 			margin: 0 auto;
-			background-color: #F8EEDA;
+			color: #F8EEDA;
 		}
 
 		.spotlight.style1 .image {
@@ -4896,7 +4898,7 @@ input, select, textarea {
 			min-width: 25rem;
 			border-radius: 0;
 			height: 100%;
-			background-color: #F8EEDA;
+			color: #F8EEDA;
 		}
 
 			.spotlight.style1 .image img {
