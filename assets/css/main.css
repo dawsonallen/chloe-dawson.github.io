@@ -295,6 +295,7 @@ input, select, textarea {
 	@media screen and (max-width: 736px) {
 
 		p.major {
+			font-family: Consolas, "Source Sans Pro", Helvetica;
 			font-size: 1.1rem;
 		}
 
